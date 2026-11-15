@@ -7,9 +7,9 @@
 - save expenses to JSON file and load them
 - menu-driven command line interface
 
-## How to run
-  ''' 
-  python expense_tracker.py '''
+## How to run 
+   ```
+   python expense_tracker.py ```
 
 ## Concepts used
 - JSON module
