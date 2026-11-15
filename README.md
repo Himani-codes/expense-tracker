@@ -9,7 +9,8 @@
 
 ## How to run 
    ```
-   python expense_tracker.py ```
+   python expense_tracker.py
+```
 
 ## Concepts used
 - JSON module
